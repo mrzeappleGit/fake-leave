@@ -1,0 +1,7 @@
+check: true
+gamemode: true
+gamemode_join: false
+leave_message: left the game.
+join_message: joined the game.
+color: YELLOW
+join_color: YELLOW

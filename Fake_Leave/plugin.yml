@@ -1,0 +1,12 @@
+name: Fake Leave
+main: me.Matthew.fake_leave.fakeleave
+version: 21.0
+description: >
+             Fake Leave
+commands:
+  faleave:
+    description: Leave
+  fajoin:
+    description: join
+  faload:
+    description: reload Fake Leave config
