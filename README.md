@@ -1,7 +1,7 @@
 # FakeLeave Plugin
 
 ## Overview
-**FakeLeave** is a Minecraft plugin designed to allow players to fake their leave and rejoin events. This plugin broadcasts custom messages when a player "leaves" or "joins," making them invisible and changing their game mode as configured. Perfect for servers that want to prank or test visibility features for players.
+**FakeLeave** is a Minecraft plugin designed to allow players to fake their leave and rejoin events. This plugin broadcasts custom messages when a player "leaves" or "joins," making them invisible and changing their game mode as configured. Perfect for servers that want to administrators trying to catch bad actors in the act.
 
 ## Features
 - Broadcasts fake leave and join messages to all players.
